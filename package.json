@@ -60,6 +60,7 @@
     ],
     "dependencies": {
         "dnd-core": "^10.0.2",
+        "postinstall": "^0.7.0",
         "react-dnd-html5-backend": "^10.0.2",
         "react-dnd-touch-backend": "^10.0.2",
         "yarn": "^1.21.0"
